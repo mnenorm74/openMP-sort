@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+  Main.cpp
+c:\users\olya\desktop\proga\4+\mp\mp\main.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  MP.vcxproj -> C:\Users\Olya\Desktop\proga\4+\MP\Debug\MP.exe
+  MP.vcxproj -> C:\Users\Olya\Desktop\proga\4+\MP\Debug\MP.pdb (Partial PDB)
